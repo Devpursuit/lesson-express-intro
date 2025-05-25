@@ -39,7 +39,7 @@ node server.js
 
 5. Use the Gitpod Preview Tab or open port 3000 in a new tab.
 
-# 🎯 Success Criteria
+## 🎯 Success Criteria
 
 * You installed and imported Express.
 
